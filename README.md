@@ -28,3 +28,5 @@ Financial Metrics:
 Revenue and Profit Margins: Display overall revenue and profit margins, including cost of goods sold (COGS) and other expenses.
 Return on Investment (ROI): Calculate ROI for marketing campaigns and promotions.
 Average Order Value (AOV): Monitor the average value of each order and identify opportunities to increase it.
+
+By developing this comprehensive dashboard, Madhav Store will gain valuable insights into their online sales performance, enabling the owner to make informed decisions, optimize operations, and drive business growth.
