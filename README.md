@@ -30,3 +30,11 @@ Return on Investment (ROI): Calculate ROI for marketing campaigns and promotions
 Average Order Value (AOV): Monitor the average value of each order and identify opportunities to increase it.
 
 By developing this comprehensive dashboard, Madhav Store will gain valuable insights into their online sales performance, enabling the owner to make informed decisions, optimize operations, and drive business growth.
+
+
+# Output
+
+
+![Screenshot 2024-05-23 144453](https://github.com/namanagrahari/Ecommerce-Sales-Dashboard/assets/85009401/14f62418-e655-46f0-b685-c86c8f947a8c)
+
+
